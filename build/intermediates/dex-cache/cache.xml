@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\TON\Desktop\ContextMenu1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f01f40b0269315860d55591cded357599c24a4fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\ContextMenu1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84c0a40a40676e77fb8ffecc36e6e7e9412a7b09">
+        <dex dex="C:\Users\TON\Desktop\ContextMenu1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2c08105728403a7074be4e5715f38e649241020d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\ContextMenu1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d9d131bc3fb49da3c6a85795ec2aa75afaa6ddc">
+        <dex dex="C:\Users\TON\Desktop\ContextMenu1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_00ddcd35cfc99995450278a2c63fbdcfc8ba5637\classes.dex" />
+    </item>
+
+</items>

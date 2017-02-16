@@ -1,0 +1,7 @@
+#Thu Feb 16 12:11:37 ICT 2017
+base.0=C\:\\Users\\TON\\Desktop\\ContextMenu1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_00ddcd35cfc99995450278a2c63fbdcfc8ba5637
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\TON\\Desktop\\ContextMenu1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2c08105728403a7074be4e5715f38e649241020d\\classes.dex
+base.1=C\:\\Users\\TON\\Desktop\\ContextMenu1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2c08105728403a7074be4e5715f38e649241020d
+file.0=C\:\\Users\\TON\\Desktop\\ContextMenu1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_00ddcd35cfc99995450278a2c63fbdcfc8ba5637\\classes.dex
