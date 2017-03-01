@@ -1,5 +1,5 @@
 # ContextMenu_OnClick
 
-http://www.javatpoint.com/images/androidimages/context2.png
+<img src=context2.png/>
 
-http://www.javatpoint.com/images/androidimages/context3.png
+<img src=context3.png/>
